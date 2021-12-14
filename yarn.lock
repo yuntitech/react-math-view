@@ -7560,9 +7560,9 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-"mathlive@https://github.com/yuntitech/mathlive.git":
+"mathlive@https://github.com/arnog/mathlive.git":
   version "0.69.8"
-  resolved "https://github.com/yuntitech/mathlive.git#3b4f2c1a24cc855e64eec4ef8781724908f7dd7e"
+  resolved "https://github.com/arnog/mathlive.git#83cded4eb37522bf1d36ff1db9d2659b985c5432"
   dependencies:
     "@cortex-js/compute-engine" "^0.4.2"
 
