@@ -7560,10 +7560,9 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-mathlive@>=0.64.0:
-  version "0.69.7"
-  resolved "https://registry.yarnpkg.com/mathlive/-/mathlive-0.69.7.tgz#b835f8cc3d743a6abb137b82b6ef4bfb5f6cfadb"
-  integrity sha512-kU7IT5W6VWryiKwrYm+6ZX2YjLcLLkAxYGH0VUaO1/WtrM0fWBnmUs2L2k/9tFOwosrm+jrDLPylfUkA8rAeZQ==
+"mathlive@https://github.com/yuntitech/mathlive.git":
+  version "0.69.8"
+  resolved "https://github.com/yuntitech/mathlive.git#3b4f2c1a24cc855e64eec4ef8781724908f7dd7e"
   dependencies:
     "@cortex-js/compute-engine" "^0.4.2"
 
